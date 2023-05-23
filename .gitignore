@@ -23,20 +23,20 @@
 !/tmp/pids/.keep
 
 # Ignore uploaded files in development.
-/storage/*
+/storage
 !/storage/.keep
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
 
-/public/assets
+/public
 /lib
 /test
 /tmp
-/vendoe
-/babe.config.js
-/conifg.ru
-
+/vendor
+/babel.config.js
+/config.ru
+/postcss.config.js
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
