@@ -30,6 +30,13 @@
 !/tmp/storage/.keep
 
 /public/assets
+/lib
+/test
+/tmp
+/vendoe
+/babe.config.js
+/conifg.ru
+
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
