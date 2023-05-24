@@ -35,7 +35,6 @@
 /tmp
 /vendor
 /babel.config.js
-
 /postcss.config.js
 
 # Ignore master key for decrypting credentials and more.
